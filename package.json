@@ -1,0 +1,16 @@
+{
+  "name": "saascomercial",
+  "version": "1.0.0",
+  "description": "Meu primeiro projeto Saas simples e prático, sendo feito em paralelo com o projeto principal do meu curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
